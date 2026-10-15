@@ -1,0 +1,8 @@
+{
+  "name": "note-tube",
+  "private": true,
+  "workspaces": ["backend", "frontend"],
+  "scripts": {
+    "dev": "bun --filter '*' dev"
+  }
+}
